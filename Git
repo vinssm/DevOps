@@ -193,4 +193,22 @@ Note: if we ever want to stop tracking our project with git, all we have to do i
 
 - gitignore file is just a simple text file, where we can add files that we want git ignore and we can also use wildcards.
 
+- with git there are 3 stages to remember:
+
+ 		Working Directory
+		Staging Directory
+		Commited files
+
+-  untracked and modified files will be in our working directory.
+
+		###### Important Commands to remember #######
+
+	git add
+	git status
+	git commit -m "message"
+	git push origin master
+
+	git chekout (branch name)
+
+	
 
