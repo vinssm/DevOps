@@ -113,4 +113,16 @@ Artifacts:
 
 - Every builder produces a single artifact, and a build is a single task that eventually produces an image.
 
- 
+
+################## Some of the popular Tools We Use #########################
+
+	- GIT     :  AS VERSION CONTROL
+	- GITHUB  :  AS SOURCE CONTROL
+	- JENKINS :  CONTINUOUS INTEGRATION 
+	- MAVEN   :  AS BUILD TOOL
+	- ANSIBLE, CHEF, PUPPET : AS CONFIGURATION MANAGEMENT TOOLS
+	- NEXUS AND JFROG ARTIFACTORY : FOR STORING THE ARTIFACTS.
+	- JIRA    :  FOR TICKETING TOOL AND BUG ISSUE TRACKING
+	- NAGIOS  :  AS MONITORING TOOL
+
+############################################################################

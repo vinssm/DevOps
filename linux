@@ -115,4 +115,6 @@ Escape Mode:
 	- yy copy
 	- pp paste
 	- dd delete
-ctrl w is to switch between 2 files.  
+ctrl w is to switch between 2 files.
+
+- ~ (tilde) is the Home Directory  
