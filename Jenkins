@@ -1,0 +1,17 @@
+				Jenkins
+
+- Jenkins runs on a Host System.
+- Jenkins runs on a java or a application container or application server.
+- By default its Jetty.
+- Jenkins can be deployed to any Web Aplication Serve.
+- By default Jenkins provides a packaged version of Jetty in which Jenkins will run.
+- Jenkins runs on a Java Web Application server a java run time is required.
+- It requires a Java Development Kit known as JDK.
+
+- There is a small program caled service as resposible for starting and stopping and monitoring Jetty and the Jenkins Applicationa java run time is required.
+- It requires a Java Development Kit known as JDK.
+
+- There is a small program caled service as resposible for starting and stopping and monitoring Jetty and the Jenkins Application.
+.
+
+------------- Wil add more soon -----------
