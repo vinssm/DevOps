@@ -124,5 +124,5 @@ Artifacts:
 	- NEXUS AND JFROG ARTIFACTORY : FOR STORING THE ARTIFACTS.
 	- JIRA    :  FOR TICKETING TOOL AND BUG ISSUE TRACKING
 	- NAGIOS  :  AS MONITORING TOOL
-
+	- Vagrant :  Provisioning Tool 
 ############################################################################
