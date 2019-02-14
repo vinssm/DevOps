@@ -12,6 +12,16 @@
 - It requires a Java Development Kit known as JDK.
 
 - There is a small program caled service as resposible for starting and stopping and monitoring Jetty and the Jenkins Application.
-.
+
+- Fixes are tested Continuously.
+
+- What ever Dveloper modifies has to be continuously tested.
+
+- End to End Automation
+- Continuous Integration
+- Continuous Deployment
+- Continuous Delivery
+
+- By default Jenkins uses port 8080
 
 ------------- Wil add more soon -----------
