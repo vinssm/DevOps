@@ -211,4 +211,15 @@ Note: if we ever want to stop tracking our project with git, all we have to do i
 	git chekout (branch name)
 
 	
+-----------------------------
+
+git :q - to exit
+
+git revert HEAD
+
+git :x 
+
+git log
+
+git revert --no-edit (note: --no-edit bypasses the message editor)
 
