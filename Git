@@ -226,3 +226,5 @@ git revert --no-edit (note: --no-edit bypasses the message editor)
 fatal: refusing to merge unrelated histories : Perform below git - command 
 git pull origin <branch> --allow-unrelated-histories
 
+
+git rm -r --cached node_modules
